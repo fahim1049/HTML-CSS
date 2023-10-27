@@ -1,0 +1,40 @@
+.box1{
+    background-color: green;
+    width: 600px;
+    height: 300px;
+    position: relative;
+    bottom: o;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+}
+.box2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    border-radius:50%;
+    
+}
+.name{
+    border: 3px;
+    background-color: aqua;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+p{
+    padding-bottom:500px;
+}
+.author{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+}
